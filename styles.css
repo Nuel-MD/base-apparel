@@ -149,7 +149,6 @@ input[type="email"]:focus {
         
         flex-direction: row;
         position: relative;
-        border: 5px solid;
         height: 100%;
     }
     .background{
